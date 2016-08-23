@@ -1,20 +1,4 @@
-name: PitchManager
-favicon: null
-layout_spectrum: 0.90243
 typography_spectrum: 0.75173
-title: Sports Pitch & Facilities Booking Platform
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8874135040678084
   saturation: 0.15736110275611281
   rhythmicContrast: 0.23999761859886348
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90243
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: PitchManager
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sports Pitch & Facilities Booking Platform
+description: 'Find, Book, Play & Promote'
 purpose: []
