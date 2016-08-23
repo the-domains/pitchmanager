@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: For Local Councils
+    id: 986d48cf-d6c2-4c68-b30d-cc4741e5685d
+    type: content
 favicon: null
 title: Sports Pitch & Facilities Booking Platform
 description: 'Find, Book, Play & Promote'
