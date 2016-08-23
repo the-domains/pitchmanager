@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T01:34:19.728Z'
+datePublished: '2016-08-23T01:39:45.551Z'
 sourcePath: >-
   _posts/2016-08-23-a-complete-sports-facilities-booking-management-and-developm.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T01:34:19.315Z'
+dateModified: '2016-08-23T01:39:44.564Z'
 title: >-
   "A Complete Sports Facilities Booking, Management & Development Platform for
   Local Councils & Sports Facilities Operators"
