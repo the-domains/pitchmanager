@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-23T00:47:42.710Z'
-dateModified: '2016-08-23T00:46:55.499Z'
+datePublished: '2016-08-23T00:48:31.680Z'
+dateModified: '2016-08-23T00:48:13.073Z'
 title: >-
   "A Complete Sports Facilities Booking, Management & Development Platform for
   Local Councils & Sports Facilities Operators"
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-23-a-complete-sports-facilities-booking-management-and-developm.md
+authors: []
+publisher: {}
+starred: true
 url: a-complete-sports-facilities-booking-management-and-developm/index.html
 _type: Article
 
