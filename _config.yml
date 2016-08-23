@@ -2,6 +2,7 @@ name: PitchManager
 favicon: null
 layout_spectrum: 0.2988194921053946
 typography_spectrum: 0.8563422637525946
+title: Sports Pitch & Facilities Booking Platform
 cta:
   domain: null
   bucket: null
